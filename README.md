@@ -70,6 +70,7 @@ gemini-joke-translator-cli/
 git clone https://github.com/<your-username>/gemini-joke-translator-cli.git
 cd gemini-joke-translator-cli
 ```
+
 2️⃣ Install dependencies
 pip install -r requirements.txt
 3️⃣ Set Gemini API key
