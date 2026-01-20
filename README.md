@@ -73,6 +73,7 @@ cd gemini-joke-translator-cli
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
+
 3️⃣ Set Gemini API key
 
 Create a free API key from:
@@ -98,7 +99,6 @@ Porque contrajo un virus.
 Arabic:
 لماذا ذهب الكمبيوتر إلى الطبيب؟
 لأنه أصيب بفيروس.
-
 🔮 Future Enhancements
 🌍 Add more languages
 🗂 Save translations to file
